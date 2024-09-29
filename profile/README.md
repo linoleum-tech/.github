@@ -1,4 +1,6 @@
-## Field of Linoleum - Technological Section (FoL-TS) 👋
+## README.md
+
+Welcome to *Field of Linoleum Technological Section* (FoL-TS)!
 
 <!--
 
